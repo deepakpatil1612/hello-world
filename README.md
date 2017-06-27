@@ -1,3 +1,3 @@
 # hello-world
-This is my first start in github
+This is my first post on github
 Hi this is amazing
